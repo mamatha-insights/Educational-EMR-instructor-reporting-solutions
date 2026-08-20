@@ -1,0 +1,46 @@
+Suppliers:
+
+
+Learners
+EMR system
+Clinical instructors
+System administrators
+Educational institutions
+
+Inputs:
+
+
+Learner activity data
+Assessment criteria
+Reporting requirements
+User accounts and permissions
+
+Outputs:
+
+
+Instructor performance report
+Learner progress report
+Performance analytics dashboard
+Feedback/recommendations
+Exportable reports
+
+Customers:
+
+
+Clinical instructors
+Students/learners
+Program coordinators
+Educational institutions
+
+SIPOC Process:Capture learner activity in EMR
+            ↓
+Collect assessment data
+            ↓
+Analyze learner performance
+            ↓
+Generate instructor reports
+            ↓
+Review and validate reports
+            ↓
+Share reports with stakeholders
+
